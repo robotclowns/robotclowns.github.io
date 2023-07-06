@@ -3,16 +3,17 @@ layout: home
 title: Home
 ---
 
-# About
+# A Present to You
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I'm sorry we won't be here for your actual birthday. I wanted to find something I could easily give you as a preset while we are away. As well as something I thought might be unique and interesting to you. I bought you a few domain names cause I wasn't sure which one you would like, obviously [robotclowns.com](robotclowns.com), along with:
 
-This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+- robotclowns.art
+- robotclowns.ink
+- dancingplums.art
+- dancingplums.ink
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+When I get home I can show you how to setup your own email so you can have west@robotclowns.com or whatever you want as well as how to update this website or point any of those other domains to this website. I can also show you how to completely revamp this to whatever you want. It could be a place to showcase your art, a place to sell merch, or even a place to just blog.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I think the world of you and I'm so proud of you. No matter what you do, where you go, who you become, I'm just so happy I get to be a part of it and I'll always be your biggest fan.
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
-
-{% include archive.html %}
+<!-- {% include archive.html %} -->
